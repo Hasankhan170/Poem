@@ -1,0 +1,91 @@
+body{
+    margin: 0%;
+    margin: 0%;
+    font-family: 'Lucida Sans';
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 20px;
+}
+.nav-1{
+   font-size: 200%;
+   text-decoration: none;
+   margin-top: 50px;
+   padding: 20px;
+   text-align: center; 
+   background-color: #9AD4D6;
+}
+a{
+    color: #F9EAE1;
+    padding: 20px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: #101935;
+    color: #9AD4D6;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.poem-1{
+    text-align: center;
+}
+.head-1{
+    font-size: 100PX;
+    font-family: ;
+    color: #9AD4D6;
+    font-family: 'Lucida Sans';
+}
+.head-2{
+    font-size: 100PX;
+    font-family: ;
+    color: pink;
+    font-family: 'imes';
+}
+.head-3{
+    font-size: 100PX;
+    font-family: ;
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+}
+.head-4{
+    font-size: 100PX;
+    font-family: ;
+    color: red;
+    font-family: sans-serif;
+}
+.head-5{
+    font-size: 100PX;
+    font-family: ;
+    color: yellow;
+    font-family:  'Arial Narrow Bold';
+}
+.HASAN{
+    color: #0c49ff;
+    font-size: 30px;
+}
+.sp-1{
+    color: chartreuse;
+    font-style: oblique;
+}
+.sp-2{
+    color: aqua;
+    font-style: oblique;
+}
+.sp-3{
+    color: chocolate;
+    font-style: oblique;
+}
+.sp-4{
+    color: yellow;
+    font-style: oblique;
+}
+.sp-1{
+    color: chartreuse;
+    font-style: oblique;
+}
+p:hover{
+    background-image: url(./pic.avif);
+}
